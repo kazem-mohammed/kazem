@@ -1,0 +1,20 @@
+{
+  "name": "Kazem Salah — Portfolio",
+  "short_name": "Kazem Salah",
+  "description": "Junior Media Buyer & Data Scientist — media buying, performance analytics and live digital-menu websites.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05070B",
+  "theme_color": "#05070B",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
